@@ -18,13 +18,13 @@ https://madhanmohans.github.io/Parallax-Scrolling/
 
 [madhanmohans](https://github.com/madhanmohans)
 
-## Version History
+<!-- ## Version History
 
 * 0.2
     * Various bug fixes and optimizations
     * See [commit change]() or See [release history]()
 * 0.1
-    * Initial Release
+    * Initial Release -->
 
 ## Acknowledgments
 
