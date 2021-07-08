@@ -4,11 +4,11 @@ Inspired by a video from Online Tuturials Youtube channel
 
 # Project Title
 
-Parallax Scrolling Website using HTML and CSS
+Parallax Scrolling Website using HTML, CSS & JS.
 
 ## Description
 
-This is my first attempt in web development. A simple website with parallax scrolling functionality using HTML and CSS.
+This is my first attempt in web development. A simple website with parallax scrolling functionality using HTML, CSS & JS.
 
 ## Link
 
