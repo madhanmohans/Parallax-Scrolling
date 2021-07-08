@@ -10,7 +10,9 @@ Parallax Scrolling Website using HTML and CSS
 
 This is my first attempt in web development. A simple website with parallax scrolling functionality using HTML and CSS.
 
-## Getting Started
+## Link
+
+https://madhanmohans.github.io/Parallax-Scrolling/
 
 ## Authors
 
